@@ -15,7 +15,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
         android:fontFamily="@font/urbanist"
-        android:text="City"
+        android:text="Bengaluru"
         android:textColor="@color/white"
         android:textSize="36sp"
         android:textStyle="bold" />
@@ -29,7 +29,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
         android:fontFamily="@font/urbanist"
-        android:text="25°"
+        android:text="30°"
         android:textColor="#ffbf00"
         android:textSize="60sp"
         android:textStyle="bold" />
@@ -65,7 +65,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:fontFamily="@font/urbanist"
-                android:text="60%"
+                android:text="40%"
                 android:textColor="@color/white"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -104,7 +104,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:fontFamily="@font/urbanist"
-                android:text="10km/h"
+                android:text="15km/h"
                 android:textColor="@color/white"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -151,6 +151,7 @@
         android:layout_marginTop="20dp"
         android:fontFamily="@font/urbanist"
         android:gravity="center"
+        android:text="Bengaluru"
         android:hint="Enter City Name"
         android:padding="12dp"
         android:textColor="#efefef"
