@@ -140,6 +140,7 @@
         android:layout_below="@id/weatherIv"
         android:layout_centerHorizontal="true"
         android:fontFamily="@font/urbanist"
+        android:textColor="@color/white"
         android:text="Sunny"
         android:textSize="28sp" />
 
